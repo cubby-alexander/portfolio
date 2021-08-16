@@ -1,9 +1,10 @@
 {
-  "name": "react-portfolio-template",
+  "name": "cubby-portfolio",
   "private": true,
-  "description": "Portfolio Template For Awesome Peoples",
+  "description": "Developer Portfolio",
   "version": "0.1.0",
-  "author": "Chetan Verma <hello@chetanverma.com>",
+  "homepage": "https://www.cubbyalexander.com",
+  "author": "Cubby Alexander",
   "dependencies": {
     "gatsby": "^2.26.1",
     "gatsby-image": "^2.5.0",
