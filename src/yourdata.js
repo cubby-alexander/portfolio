@@ -46,7 +46,7 @@ export default {
     {
       title: "Meridian", //Project Title - Add Your Project Title Here
       para:
-        "Re-engineered an existing feature set for a location sharing app for deployment as a mobile application to both iOS and Android appstores.", // Add Your Service Type Here
+        "Management training and development tool deployed with AWS.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         meridian,
@@ -56,7 +56,7 @@ export default {
     {
       title: "Trotr Web and Mobile", //Project Title - Add Your Project Title Here
       para:
-        "Delivered a social location sharing application complete with authentication, geolaction APIs, ", // Add Your Service Type Here
+        "Web and mobile versions of a social location sharing app running with geolocation APIs.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         trotrweb,
@@ -66,7 +66,7 @@ export default {
     {
       title: "BeanStalk", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Coffee bean roast search and review platform.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         beanstalk,
@@ -76,7 +76,7 @@ export default {
     {
       title: "Scipricore Agenda", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Cyberpunk text-based adventure video game running as a true React-based SPA.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         scipricore,
@@ -86,7 +86,7 @@ export default {
     {
       title: "Crown Edicts", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Survey tool for finding hairstyles and nearby barbers that can style them.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         crownedicts,
@@ -96,7 +96,7 @@ export default {
     {
       title: "Tipple", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Takeout cocktail search for discovering restaurants in your area that .", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         tipple,
@@ -119,16 +119,14 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I'm a full-stack web developer with a background in small business " +
-    "administration and a drive for excellence. The " +
-    "artistry and technical challenge of building digital tools for complex problems " +
-    "inspires me every day.",
+    "I'm a self- / bootcamp-taught developer with a deep respect for and fascination with technology." +
+    "",
   aboutParaTwo:
     "I grew up in Hawaii and Maine (nine years each). After studying moral philosophy and political science at " +
   "the University of King's College in Halifax, I moved to Washington, DC to work in the U.S. Senate. " +
     "I quickly found entrepreneurship a more compelling focus, and through it came to a deeper understanding and appreciation of technology.",
   aboutParaThree:
-    "Now I look for opportunities to apply my",
+    "Now I just want to find a project on which to go turbo.",
   aboutImage:
     "./images/",
 
@@ -142,17 +140,17 @@ export default {
     {
       img: htmlIcon,
       para:
-        "Proficient at developing websites from scratch with HTML 5.",
+        "Proficient at developing websites from scratch and utilizing features of HTML 5.",
     },
     {
       img: cssIcon,
       para:
-        "Able to implement rich styles and designs with CSS 3.",
+        "Able to implement rich styles, animations, and designs with CSS 3.",
     },
     {
       img: jsIcon,
       para:
-        "Competent at implementing complex site features and functionality using ES6 Javascript.",
+        "Skilled at building complex site features and functionality using ES6 Javascript.",
     },
     {
       img: reactIcon,
@@ -162,12 +160,12 @@ export default {
     {
       img: designIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Competent at developing clean, responsive designs for new interfaces and layouts.",
     },
     {
       img: codeIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Able to deliver scalable code on teams using version control and continuous integration.",
     },
   ],
 
@@ -175,32 +173,21 @@ export default {
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Heading",
+  promotionHeading: "What Would Be Nice",
   promotionPara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "I want to be around people who set high standards for themselves and are " +
+    "energized by daunting challenges. I want 'difficult' to go hand-in-hand with 'daring'. " +
+    "I want to shun the question 'How can we make it harder to quit' and instead ask " +
+    "'How can we make it irresistible to live without?'",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
 
-  contactSubHeading: "Let's create your next experience together",
+  contactSubHeading: "Lets discuss",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
-    {
-      img: codepenIcon,
-      url: "https://www.codepen.com/",
-    },
-    {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
-    },
-    {
-      img: instagramIcon,
-      url: "https://www.instagram.com/",
-    },
+    { img: githubIcon, url: "https://github.com/cubbyalexander" },
   ],
 
   // End Contact Section ---------------
 }
-
-// Thanks for using this template, I would love to hear from you contact me at hello@chetanverma.com
