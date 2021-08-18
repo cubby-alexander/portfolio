@@ -51,7 +51,7 @@ export default {
       imageSrc:
         meridian,
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/cubby-alexander/meridian",
     },
     {
       title: "Trotr Web and Mobile", //Project Title - Add Your Project Title Here
@@ -61,7 +61,7 @@ export default {
       imageSrc:
         trotrweb,
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "trotr-client.herokuapp.com",
     },
     {
       title: "BeanStalk", //Project Title - Add Your Project Title Here
@@ -71,7 +71,7 @@ export default {
       imageSrc:
         beanstalk,
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://beanstalk-app.herokuapp.com/",
     },
     {
       title: "Scipricore Agenda", //Project Title - Add Your Project Title Here
@@ -81,7 +81,7 @@ export default {
       imageSrc:
         scipricore,
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "www.scipricore.herokuapp.com",
     },
     {
       title: "Crown Edicts", //Project Title - Add Your Project Title Here
@@ -91,7 +91,7 @@ export default {
       imageSrc:
         crownedicts,
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/cubby-alexander/crown-edicts-client",
     },
     {
       title: "Tipple", //Project Title - Add Your Project Title Here
@@ -101,7 +101,7 @@ export default {
       imageSrc:
         tipple,
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/OriginFire/tipple",
     },
 
     /*
