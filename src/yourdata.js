@@ -61,7 +61,7 @@ export default {
       imageSrc:
         trotrweb,
       //Project URL - Add Your Project Url Here
-      url: "https://www.trotr-client.herokuapp.com",
+      url: "https://trotr-client.herokuapp.com/",
     },
     {
       title: "BeanStalk", //Project Title - Add Your Project Title Here
@@ -81,7 +81,7 @@ export default {
       imageSrc:
         scipricore,
       //Project URL - Add Your Project Url Here
-      url: "https://www.scipricore.herokuapp.com",
+      url: "https://scipricore.herokuapp.com",
     },
     {
       title: "Crown Edicts", //Project Title - Add Your Project Title Here
