@@ -13,6 +13,7 @@ import trotrweb from "./images/TrotrWeb.png";
 import crownedicts from "./images/CrownEdicts.png";
 import beanstalk from "./images/Beanstalk.png";
 import meridian from "./images/Meridian.png";
+import helios from "./images/Helios.png";
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -43,6 +44,16 @@ export default {
 
   // Work Section ------------------------
   projects: [
+    {
+      title: "Helios", //Project Title - Add Your Project Title Here
+      para:
+        "AI-augmented solution for discovering and deploying satellite services.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        helios,
+      //Project URL - Add Your Project Url Here
+      url: "helios-osm.com",
+    },
     {
       title: "Meridian", //Project Title - Add Your Project Title Here
       para:
