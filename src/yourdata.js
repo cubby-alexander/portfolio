@@ -77,7 +77,7 @@ export default {
     {
       title: "BeanStalk", //Project Title - Add Your Project Title Here
       para:
-        "Coffee bean roast search and review platform.", // Add Your Service Type Here
+        "Website to find and review specialty coffee roasters with unique blends.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         beanstalk,
