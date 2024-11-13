@@ -5,6 +5,16 @@ import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
 import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
+import nodeIcon from "./images/node.svg"
+import typescriptIcon from "./images/typescript.svg"
+import pythonIcon from "./images/python.svg"
+import postgresIcon from "./images/postgres.svg"
+import chatgptIcon from "./images/chatgpt.svg"
+import dockerIcon from "./images/docker.svg"
+import digitaloceanIcon from "./images/digitalocean.svg"
+import awsIcon from "./images/aws.svg"
+import kubernetesIcon from "./images/kubernetes.svg"
+import rubyIcon from "./images/ruby.svg"
 
 // Project Screenshots
 import tipple from "./images/Tipple.png";
@@ -24,18 +34,18 @@ import instagramIcon from "./images/instagram.svg"
 export default {
 
   //   Header Details ---------------------
-  name: "Cubby Alexander",
+  name: "Cubby",
   headerTagline: [
     //Line 1 For Header
-    "Full stack w/ focus",
+    "A full stack developer &",
     //Line 2 For Header
-    "on rapid prototyping",
+    "problem-solver",
     //Line 3 For Header
-    "& modern architecture",
+    "w/ cross-functional experience",
   ],
   //   Header Paragraph
   headerParagraph:
-    "My specialities are SPAs, mobile apps, and serverless backend architecture. I live for user-centered design and eat, sleep, and breathe quick product iteration cycles.",
+    "My speciality is building SPAs + mobile apps, and I have strong proficiency with pipelines + infrastructure, AI-augmented userflows, and UI/UX.",
 
   //Contact Email
   contactEmail: "hall.j.alexander@gmail.com",
@@ -130,14 +140,13 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I'm a self- / bootcamp-taught developer with a deep respect for and fascination with technology." +
-    "",
+    "I'm a self-taught developer. I love software that solves problems and is delightful to use.",
   aboutParaTwo:
-    "I grew up in Hawaii and Maine (nine years each). After studying moral philosophy and political science at " +
-  "the University of King's College in Halifax, I moved to Washington, DC to work in the U.S. Senate. " +
-    "I quickly found entrepreneurship a more compelling focus, and through it came to a deeper understanding and appreciation of technology.",
+    "I grew up in Hawaii and Maine, studied moral philosophy and political science in school," +
+    "then moved to Washington, DC to work in the U.S. Senate. " +
+    "I quickly found entrepreneurship more compelling, and through it came to a deeper understanding and appreciation of technology.",
   aboutParaThree:
-    "Now I just want to find a project on which to go turbo.",
+    "Now I just want to build.",
   aboutImage:
     "./images/",
 
@@ -148,20 +157,26 @@ export default {
   //   Import Icons from the top and link it here
 
   skills: [
-    {
-      img: htmlIcon,
-      para:
-        "Proficient at developing websites from scratch and utilizing features of HTML 5.",
-    },
-    {
-      img: cssIcon,
-      para:
-        "Able to implement rich styles, animations, and designs with CSS 3.",
-    },
+
     {
       img: jsIcon,
       para:
-        "Skilled at building complex site features and functionality using ES6 Javascript.",
+        "ES6 Javascript",
+    },
+    {
+      img: typescriptIcon,
+      para:
+        "Typescript",
+    },
+    {
+      img: pythonIcon,
+      para:
+        "Python",
+    },
+    {
+      img: nodeIcon,
+      para:
+        "Node.js",
     },
     {
       img: reactIcon,
@@ -169,27 +184,59 @@ export default {
         "Highly adept at delivering SPA and mobile solutions coded in React and React Native.",
     },
     {
-      img: designIcon,
+      img: postgresIcon,
       para:
-        "Competent at developing clean, responsive designs for new interfaces and layouts.",
+        "PostgreSQL",
     },
     {
-      img: codeIcon,
+      img: awsIcon,
       para:
-        "Able to deliver scalable code on teams using version control and continuous integration.",
+        "AWS",
     },
+    {
+      img: digitaloceanIcon,
+      para:
+        "Digital Ocean",
+    },
+    {
+      img: chatgptIcon,
+      para:
+        "Able to leverage AI to augment userflows and improve developer experience.",
+    },
+    {
+      img: dockerIcon,
+      para:
+        "Docker",
+    },
+    {
+      img: kubernetesIcon,
+      para:
+        "Kubernetes",
+    },
+    {
+      img: githubIcon,
+      para:
+        "Github",
+    },
+    {
+      img: htmlIcon,
+      para:
+        "HTML 5",
+    },
+    {
+      img: cssIcon,
+      para:
+        "CSS 3",
+    }
   ],
 
   // End Skills Section --------------------------
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "What Would Be Nice",
+  promotionHeading: "Development Goals",
   promotionPara:
-    "I want to be around people who set high standards for themselves and are " +
-    "energized by daunting challenges. I want 'difficult' to go hand-in-hand with 'daring'. " +
-    "I want to shun the question 'How can we make it harder to quit' and instead ask " +
-    "'How can we make it irresistible to live without?'",
+    "Currently, I'm striving to deepen my practice of software engineering as a craft, while also making more senior / independent contributions on my teams.",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
