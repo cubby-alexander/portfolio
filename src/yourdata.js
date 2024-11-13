@@ -142,7 +142,7 @@ export default {
   aboutParaOne:
     "I'm a self-taught developer. I love software that solves problems and is delightful to use.",
   aboutParaTwo:
-    "I grew up in Hawaii and Maine, studied moral philosophy and political science in school," +
+    "I grew up in Hawaii and Maine, studied moral philosophy and political science in school, " +
     "then moved to Washington, DC to work in the U.S. Senate. " +
     "I quickly found entrepreneurship more compelling, and through it came to a deeper understanding and appreciation of technology.",
   aboutParaThree:
